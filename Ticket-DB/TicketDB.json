@@ -1,0 +1,55 @@
+{
+    "ticketpanal_1077594484000428042": [
+        {
+            "channel": "1110171703532855386",
+            "category": "1099924643088969788",
+            "welcome": "Bot maker",
+            "message": "Make bot",
+            "support": "1077594126587007108",
+            "mention": ""
+        }
+    ],
+    "BOTMAKER_TICKET_1077594484000428042": "1110182972369416192",
+    "TicketSystem_1077593691247620097": {
+        "channel": "1110171703532855386",
+        "category1": "1099924643088969788",
+        "category2": "1104911599589916885",
+        "message": "TEST MESSGAE",
+        "welcome1": "1we",
+        "welcome2": "we2",
+        "buttonname1": "1",
+        "buttonname2": "2",
+        "support1": "1077732507807645727",
+        "support2": "1077594126587007108",
+        "buttonstatus1": "false",
+        "buttonstatus2": "true",
+        "color1": "DANGER",
+        "color2": "SUCCESS",
+        "emoji1": "",
+        "emoji2": "",
+        "mention1": "",
+        "mention2": ""
+    },
+    "TicketpanalMsg_1077593691247620097": "1113035984381165669",
+    "TicketSystem_1102027278646513724": {
+        "channel": "1102034678795485215",
+        "category1": "1112682706510299146",
+        "category2": "1112682794280296459",
+        "message": "لو في اي مشكله في بوتك افتح تكت دعم فني\nلو عاوز تطلب كود او بوت خاص افتح تكت طلبات",
+        "welcome1": "قم بكتابه المشكله و انتظر الرد",
+        "welcome2": "قم بكتابه نوع الطلب و ما الطلب",
+        "buttonname1": "دعم فني",
+        "buttonname2": "طلبات",
+        "support1": "1102032194265956544",
+        "support2": "1102032537284513834",
+        "buttonstatus1": "false",
+        "buttonstatus2": "false",
+        "color1": "PRIMARY",
+        "color2": "SECONDARY",
+        "emoji1": "<:theticketemoji:1114542060524028034>",
+        "emoji2": "<:tag:1114542047404240976>",
+        "mention1": "1102032537284513834",
+        "mention2": "1102032194265956544"
+    },
+    "TicketpanalMsg_1102027278646513724": "1114551673390645309"
+}
